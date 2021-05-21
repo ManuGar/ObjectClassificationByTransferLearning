@@ -113,7 +113,7 @@ setup(
     #
     # For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
-    install_requires=['opencv-python', 'mahotas', 'pandas', 'imutils', 'scikit-image', 'tabulate','tensorflow==1.15.0','matplotlib', 'Keras==2.1.6', 'commentjson', 'theano', 'h5py', 'wget', 'numpy', 'scikit-learn',
+    install_requires=['opencv-python', 'mahotas', 'pandas', 'imutils', 'scikit-image', 'tabulate','tensorflow==2.5.0','matplotlib', 'Keras==2.1.6', 'commentjson', 'theano', 'h5py', 'wget', 'numpy', 'scikit-learn',
                       'scikit-multilearn','arff'],  # Optional
 
     # List additional groups of dependencies here (e.g. development
